@@ -4,6 +4,10 @@ r = (1..10).to_a
 
 # Se pide:
 # Crear una clase llamada Roulette.
+
+class Roulette
+
+end
 # Crear un método de instancia llamado play que reciba como argumento un número
 # al cual se está apostando. Luego debe tomar un valor -del array- al azar y
 # compararlo con el número al cual se apostó.
